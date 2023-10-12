@@ -1,0 +1,12 @@
+.div_header{
+    display: flex;
+    justify-content: space-around;
+}
+.apr{ 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(196, 121, 10);
+}
